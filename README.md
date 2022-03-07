@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on random tasks from ALX Software Engineering program
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Bash, Git, Vagrant and C
 - 👯 I’m looking to collaborate on nothing for now!
 - 💬 Ask me about ALX Software Engineering Program
 - 📫 How to reach me: @baaioy on twitter
