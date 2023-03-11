@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on random tasks from ALX Software Engineering program
-- 🌱 I’m currently learning Bash, Git, Vagrant and C
-- 👯 I’m looking to collaborate on nothing for now!
+- 🔭 I’m currently working on random projects from [frontendpractice.com](https://frontendpractice.com/)
+- 👍 I'm good enough at Python for Web development
+- 🌱 I’m currently learning BS5 and JS
+- 👯 I’m looking to collaborate on web based projects!
 - 💬 Ask me about ALX Software Engineering Program
-- 📫 How to reach me: @baaioy on twitter
-- 😄 Pronoun(s): He!!!
-- ⚡ Fun fact: I'm a man!😆
+- 📫 How to reach me: [@kenharlbar](https://twitter.com/kenharlbar) on twitter
+- 😈 Pronoun(s): He!!!
+- ⚡ Not fun fact: I know nothing!
